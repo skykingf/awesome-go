@@ -4,6 +4,9 @@
 ## 教程
 《[Go Web编程](https://github.com/astaxie/build-web-application-with-golang)》:  [Begoo](https://github.com/astaxie/beego)作者写的一本Go Web编程书籍。    
 
+## 编程规范
+《[Go 编程语言规范](http://ilovers.sinaapp.com/doc/golang-specification.html)》: 写的内容较多，最后更新日期是2014.11.11。PDF版[链接](https://github.com/skykingf/awesome-go/blob/master/resource/Go%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E8%A7%84%E8%8C%83.pdf)。   
+
 ## Web框架
 [Begoo](https://github.com/astaxie/beego):  An open-source, high-performance web framework for the Go programming language。有中文文档，版本号已更新到v1.5，最近一次发布日期是2015.06.16。  
 [Revel](https://github.com/revel/revel): A high productivity, full-stack web framework for the Go language. 版本号已更新到v0.12.0，最近一次发布日期是2015.03.25。
